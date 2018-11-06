@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A9118FD9-52E0-C3D9-CC1A-E2B7FD15D699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{7E18A8F0-1658-CEDA-282D-C803C531DFF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9118FD9-52E0-C3D9-CC1A-E2B7FD15D699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9118FD9-52E0-C3D9-CC1A-E2B7FD15D699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9118FD9-52E0-C3D9-CC1A-E2B7FD15D699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9118FD9-52E0-C3D9-CC1A-E2B7FD15D699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E18A8F0-1658-CEDA-282D-C803C531DFF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E18A8F0-1658-CEDA-282D-C803C531DFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E18A8F0-1658-CEDA-282D-C803C531DFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E18A8F0-1658-CEDA-282D-C803C531DFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
